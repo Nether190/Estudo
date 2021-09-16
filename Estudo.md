@@ -3,11 +3,11 @@ ____
 # Matemática [4/60]
 
 Tem 60 capítulos, eu escrevo aqui na medida que for aparecendo kkkkkkkkkkk
-- [x] [[Matematica#Conjuntos Numéricos|Conjuntos Numéricos]]
-- [x] %%[[Matematica#Funções|Funções]]%% Funções 
-- [x] [teste](Matematica.md#Função-Afim)
-- [x] [[Matematica#Funcção Quadrática|Funcção Quadrática]]
-- [ ] [[Matematica#Função Modular|Função Modular]]
+- [x] [Conjuntos Numéricos](Matematica.md#Conjuntos-Numéricos)
+- [x] [Funções](Matematica.md#Funções)
+- [x] [Função Afim](Matematica.md#Função-Afim)
+- [x] [Funcção Quadrática](Matematica.md#Funcção-Quadrática)
+- [ ] [Função Modular](Matematica.md#Função-Modular)
 
 ____
 
@@ -17,28 +17,28 @@ ____
 
 ### Cinemática
 
-- [ ] Bases da Cinemática escalar
-- [ ] Movimento uniforme 
-- [ ] Movimento uniformemente variado
-- [ ] Movimentos circulares
-- [ ] Vetores e Cinemática vetorial 
+- [ ] [Bases da Cinemática escalar](Fisica.md#)
+- [ ] [Movimento uniforme](Fisica.md#)
+- [ ] [Movimento uniformemente variado](Fisica.md#)
+- [ ] [Movimentos circulares](Fisica.md#)
+- [ ] [Vetores e Cinemática vetorial](Fisica.md#)
 
 ### Dinâmica
 
-- [ ] Os princípios da Dinâmica
-- [ ] Atrito entre sólidos 
-- [ ] Resultantes tangencial e centrípeta
-- [ ] Gravitação
-- [ ] Movimentos em campo gravitacional uniforme 
-- [ ] Trabalho e potência
-- [ ] Energia mecânica e sua conservação
-- [ ] Quantidade de movimento e sua conservação
+- [ ] [Os princípios da Dinâmica](Fisica.md#)
+- [ ] [Atrito entre sólidos](Fisica.md#)
+- [ ] [Resultantes tangencial e centrípeta](Fisica.md#)
+- [ ] [Gravitação](Fisica.md#)
+- [ ] [Movimentos em campo gravitacional uniforme](Fisica.md#)
+- [ ] [Trabalho e potência](Fisica.md#)
+- [ ] [Energia mecânica e sua conservação](Fisica.md#)
+- [ ] [Quantidade de movimento e sua conservação](Fisica.md#)
 
 ### Estática
 
-- [ ] Estática dos sólidos
-- [ ] Estática dos fluidos 1,2
-- [ ] Estática dos fluidos 3,4
+- [ ] [Estática dos sólidos](Fisica.md#)
+- [ ] [Estática dos fluidos 1,2](Fisica.md#)
+- [ ] [Estática dos fluidos 3,4](Fisica.md#)
 
 ____
 
@@ -46,26 +46,26 @@ ____
 
 ### Termologia
 
-- [ ] Temperatura
-- [ ] O Calor e sua propagação
-- [ ] Calor sensível e calor latente
-- [ ] Gases perfeitos
-- [ ] Termodinâmica
-- [ ] Dilatação térmica dos sólidos e dos líquidos
+- [ ] [Temperatura](Fisica.md#)
+- [ ] [O Calor e sua propagação](Fisica.md#)
+- [ ] [Calor sensível e calor latente](Fisica.md#)
+- [ ] [Gases perfeitos](Fisica.md#)
+- [ ] [Termodinâmica](Fisica.md#)
+- [ ] [Dilatação térmica dos sólidos e dos líquidos](Fisica.md#)
 
 ### Ondulatória
 
-- [ ] Movimento harmônico simples
-- [ ] Ondas 
-- [ ] Acústica
+- [ ] [Movimento harmônico simples](Fisica.md#)
+- [ ] [Ondas](Fisica.md#)
+- [ ] [Acústica](Fisica.md#)
 
 ### Óptica Geométrica
 
-- [ ] Fundamentos da Óptica geométrica
-- [ ] Reflexão da luz
-- [ ] Refração da luz 
-- [ ] Lentes esféricas 
-- [ ] Instrumentos ópticos e óptica da visão 
+- [ ] [Fundamentos da Óptica geométrica](Fisica.md#)
+- [ ] [Reflexão da luz](Fisica.md#)
+- [ ] [Refração da luz](Fisica.md#)
+- [ ] [Lentes esféricas](Fisica.md#)
+- [ ] [Instrumentos ópticos e óptica da visão ](Fisica.md#)
 
 ____
 
@@ -73,33 +73,33 @@ ____
 
 ### Eletrostática
 
-- [x] Cargas elétricas
-- [ ] Campo elétrico
-- [ ] Potencial elétrico
+- [x] [Cargas elétricas](Fisica.md#Cargas-elétricas)
+- [ ] [Campo elétrico](Fisica.md#)
+- [ ] [Potencial elétrico](Fisica.md#)
 
 ### Eletrodinâmica
 
-- [ ] Corrente elétrica e resistores
-- [ ] Associação de resistores e medidas elétricas 
-- [ ] Circuitos elétricos
-- [ ] Capacitores
+- [ ] [Corrente elétrica e resistores](Fisica.md#)
+- [ ] [Associação de resistores e medidas elétricas ](Fisica.md#)
+- [ ] [Circuitos elétricos](Fisica.md#)
+- [ ] [Capacitores](Fisica.md#)
 
 ### Eletromagnetismo
 
-- [ ] O campo magnético e sua influência sobre cargas elétricas
-- [ ] A origem do campo magnético
-- [ ] Força magnética sobre correntes elétricas
-- [ ] Indução eletromagnética 
+- [ ] [O campo magnético e sua influência sobre cargas elétricas](Fisica.md#)
+- [ ] [A origem do campo magnético](Fisica.md#)
+- [ ] [Força magnética sobre correntes elétricas](Fisica.md#)
+- [ ] [Indução eletromagnética](Fisica.md#)
 
 ### Física Moderna
 
-- [ ] Noções de Física Quântica
-- [ ] Noções de Teoria da Relatividade 
-- [ ] Comportamento ondulatório da matéria
+- [ ] [Noções de Física Quântica](Fisica.md#)
+- [ ] [Noções de Teoria da Relatividade](Fisica.md#)
+- [ ] [Comportamento ondulatório da matéria](Fisica.md#)
 
 ### Análise Dimensional
 
-- [ ] Análise Dimensional
+- [ ] [Análise Dimensional](Fisica.md#)
 
 ____
 
@@ -107,7 +107,7 @@ ____
 
 ## Volume 1 
 
-- [x] Primeira visão da Química
+- [x] [Primeira visão da Química](Quimica.md#Primeira-visão-da-Química)
 - [ ] 2
 - [ ] 3
 - [ ] 4
@@ -166,9 +166,9 @@ ___
 
 ## Volume 1
 
-- [x] Biologia: Ciência e Vida
-- [x] A origem da vida na Terra
-- [ ] Bases moleculares da vida
+- [x] [Biologia: Ciência e Vida](Biologia.md#Biologia:-Ciência-e-Vida)
+- [x] [A origem da vida na Terra](Biologia.md#A-origem-da-vida-na-Terra)
+- [ ] [Bases moleculares da vida](Biologia.md#Bases-moleculares-da-vida)
 - [ ] 4
 - [ ] 5
 - [ ] 6
