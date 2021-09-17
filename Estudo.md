@@ -2,13 +2,19 @@ ____
 
 # Matemática [4/60]
 
-Tem 60 capítulos, eu escrevo aqui na medida que for aparecendo kkkkkkkkkkk
+## Álgebra
+
 - [x] [Conjuntos Numéricos](Matematica.md#Conjuntos-Numéricos)
 - [x] [Funções](Matematica.md#Funções)
 - [x] [Função Afim](Matematica.md#Função-Afim)
 - [x] [Funcção Quadrática](Matematica.md#Funcção-Quadrática)
 - [ ] [Função Modular](Matematica.md#Função-Modular)
 
+## Trigonometria
+
+## Estatística
+
+## Geometria
 ____
 
 # Física [1/45]
